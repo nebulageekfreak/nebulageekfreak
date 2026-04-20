@@ -41,11 +41,6 @@
 ###
 ]
 
-###
-
-
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nebulageekfreak/nebulageekfreak/output/pacman-contribution-graph-dark.svg">

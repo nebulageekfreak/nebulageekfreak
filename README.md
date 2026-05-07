@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm a passionate and ambitious aspiring programmer with a strong interest in C++ and Python. Currently, I focus on competitive programming, regularly solving algorithmic problems and participating in contests. I enjoy uploading my solutions to GitHub to track progress, collaborate, and learn from the programming community. Always motivated to take on new challenges and expand my coding skills.</p>
+<p align="left">I'm a passionate and ambitious aspiring programmer with a strong interest in C++ and Python. Currently, I focus on competitive programming, regularly solving algorithmic problems and participating in contests. I enjoy uploading my solutions to GitHub to track progress, collaborate, and learn from the programming community. Always motivated to take on new challenges and expand my coding skills</p>
 
 ###
 
